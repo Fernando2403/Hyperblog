@@ -6,3 +6,5 @@ Version 2 fernando
 En camara parece alto 
 
 Hoy es el CEO de Platzi
+
+Cambio de maestria
